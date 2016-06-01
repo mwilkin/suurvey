@@ -1,0 +1,57 @@
+body {
+  background-color: #D1D1D1;
+}
+
+.radio-inline label{
+  margin-right: 50px;
+}
+
+#name, #food {
+  width: 100%;
+  margin-bottom: 30px;
+  height: 30px;
+}
+
+#color {
+  width: 100px;
+}
+
+#born {
+  width: 160px;
+}
+
+#gender-btns label{
+  margin-bottom: 30px;
+  height: 30px;
+}
+
+select {
+  margin-bottom: 30px;
+}
+
+.btn {
+  width: 300px;
+}
+
+.col-sm-6 {
+  margin-bottom: 50px;
+}
+
+.container {
+  background-color: white;
+  padding-bottom: 80px;
+  padding-top: 30px;
+}
+
+.page-header {
+  background-color: white;
+  padding-top: 30px;
+  margin-top: -40px;
+}
+
+#results {
+  margin-top: 350px;
+  padding: 30px;
+  font-size: 16px;
+
+}
